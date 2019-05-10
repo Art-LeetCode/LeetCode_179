@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
 }
